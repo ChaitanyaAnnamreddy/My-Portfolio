@@ -8,11 +8,6 @@
 -   [Getting started](#-getting-started)
 -   [Installation and Setup Instructions](#-installation-and-setup-instructions)
 -   [Folder structure](#-folder-structure)
--   [Configurations](#-configurations)
--   [Google Analytics](#-google-analytics)
--   [Building the React App](#-building-the-react-app)
--   [FAQ](#-faq)
--   [Contribution](#-contribution)
 
 ## 📙 Features
 
@@ -38,3 +33,12 @@ Clone down this repository. You will need `NodeJS` and `git` installed globally 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.
+
+## 📁 Folder structure
+
+-   `/public`: publicly accessible contents (ex: images, media).
+-   `/src`: all the components used in this project.
+    -   `/src/components/`: each reusable components of each pages.
+    -   `/src/data`: configurations of the web app.
+    -   `/src/pages`: pages that include in the web app.
+
