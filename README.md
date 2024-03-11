@@ -2,6 +2,7 @@
 
 
 📙 Features
+
 📖 Multi-Page Layout
 Home
 About
@@ -10,6 +11,7 @@ Articles
 Contact
 📱 Fully Responsive
 🛠 Easy configurations
+
 📚 Getting started
 Clone down this repository. You will need NodeJS and git installed globally on your machine.
 
