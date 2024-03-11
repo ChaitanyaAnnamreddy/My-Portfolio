@@ -1,16 +1,31 @@
-import './App.css';
-import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
-import Layout from "../src/sections/Layout";
-import "bootstrap/dist/css/bootstrap.min.css";
+
+import { Routes, Route } from "react-router-dom";
+
+
+import Homepage from "./pages/homepage";
+import About from "./pages/about";
+import Projects from "./pages/projects";
+
+import Contact from "./pages/contact";
+import Notfound from "./pages/404";
+
+import "./App.css";
 
 function App() {
-  return (
-    <Router>
-    <Routes>
-      <Route path="/" element={<Layout/>} />
-    </Routes>
-  </Router>
-  )
+	
+
+	return (
+		<div className="App">
+			<Routes>
+				<Route path="/" element={<Homepage />} />
+				<Route path="/about" element={<About />} />
+				<Route path="/projects" element={<Projects />} />
+				
+				<Route path="/contact" element={<Contact />} />
+				<Route path="*" element={<Notfound />} />
+			</Routes>
+		</div>
+	);
 }
 
 export default App;
