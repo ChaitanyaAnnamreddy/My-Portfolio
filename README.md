@@ -4,13 +4,12 @@
 📙 Features
 
 📖 Multi-Page Layout
-Home
-About
-Projects
-Articles
-Contact
-📱 Fully Responsive
-🛠 Easy configurations
+  *Home
+  *About
+  *Projects
+  *Contact
+  *📱 Fully Responsive
+  *🛠 Easy configurations
 
 📚 Getting started
 Clone down this repository. You will need NodeJS and git installed globally on your machine.
