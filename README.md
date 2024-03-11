@@ -1,30 +1,39 @@
-<img width="443" alt="image" src="https://github.com/ChaitanyaAnnamreddy/Portfolio-using-React/assets/120272918/fd05cd93-ce3b-4fb4-9605-f9bb3c7cdcd6">
+<center>
+<img src="https://github.com/ChaitanyaAnnamreddy/Portfolio-using-React/assets/120272918/19f50ff3-0495-4155-a049-459476f91955" alt="Reactfolio" />
+</center>
 
 
-📙 Features
+-   [Features](#-features)
+-   [Getting started](#-getting-started)
+-   [Installation and Setup Instructions](#-installation-and-setup-instructions)
+-   [Folder structure](#-folder-structure)
+-   [Configurations](#-configurations)
+-   [Google Analytics](#-google-analytics)
+-   [Building the React App](#-building-the-react-app)
+-   [FAQ](#-faq)
+-   [Contribution](#-contribution)
 
-📖 Multi-Page Layout
-  *Home
-  *About
-  *Projects
-  *Contact
-  *📱 Fully Responsive
-  *🛠 Easy configurations
+## 📙 Features
 
-📚 Getting started
-Clone down this repository. You will need NodeJS and git installed globally on your machine.
+-   📖 Multi-Page Layout
+    -   Home
+    -   About
+    -   Projects
+    -   Articles
+    -   Contact
+-   📱 Fully Responsive
+-   🛠 Easy configurations
 
-🛠 Installation and Setup Instructions
-Installation: npm install
+## 📚 Getting started
 
-Run the project: npm start
+Clone down this repository. You will need `NodeJS` and `git` installed globally on your machine.
 
-Runs the app in the development mode.
-Open http://localhost:3000 to view it in the browser. The page will reload if you make edits.
+## 🛠 Installation and Setup Instructions
 
-📁 Folder structure
-/public: publicly accessible contents (ex: images, media).
-/src: all the components used in this project.
-/src/components/: each reusable components of each pages.
-/src/data: configurations of the web app.
-/src/pages: pages that include in the web app.
+1. Installation: `npm install`
+
+2. Run the project: `npm start`
+
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+The page will reload if you make edits.
