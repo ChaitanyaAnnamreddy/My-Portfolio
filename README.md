@@ -15,7 +15,6 @@
     -   Home
     -   About
     -   Projects
-    -   Articles
     -   Contact
 -   📱 Fully Responsive
 -   🛠 Easy configurations
