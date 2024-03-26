@@ -1,6 +1,4 @@
-<center>
-<img src="https://github.com/ChaitanyaAnnamreddy/Portfolio-using-React/assets/120272918/4f0df1c0-6578-4d1d-a44a-09bc6549aa09" alt="React Portfolio" />
-</center>
+
 
 
 
